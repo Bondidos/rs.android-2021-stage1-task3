@@ -3,7 +3,7 @@ import org.junit.Assert.assertNull
 import org.junit.Test
 import subtask2.SquareDecomposer
 
-class SquaresTests {
+class   SquaresTests {
 
     private val decomposer = SquareDecomposer()
 
